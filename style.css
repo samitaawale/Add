@@ -1,0 +1,21 @@
+body{
+    background-color: #b0c6e2;
+}
+
+#wrapper{
+    width: 750px;
+    height: 350px;
+    background-color: rgb(87, 165, 175);
+    margin-top: 120px;
+    margin-left: 220px;
+}
+
+#btn{
+    background-color:  green;
+    color: #fff;
+    padding: 12px;
+    border-style: none;
+    font-weight: bold;
+    width: 100px;
+
+}
